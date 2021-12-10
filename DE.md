@@ -147,8 +147,8 @@ Wirkung:
 > [Markdown-Bibliothek von DWHR-Pi](https://github.com/DWHR-Pi/Markdown "Markdown").
 
 **Referenz**:
-> \[DWHR-Pi's Markdown-Bibliothek 1\]\[1\] 
-> \[DWHR-Pi's Markdown-Bibliothek 2\]\[2\] 
+> \[DWHR-Pi's Markdown-Bibliothek 1\]\[1\]  
+> \[DWHR-Pi's Markdown-Bibliothek 2\]\[2\]  
 > \[1\]:https://github.com/DWHR-Pi/Markdown "Markdown"
 > \[2\]:https://github.com/DWHR-Pi/Markdown "Markdown"
 
