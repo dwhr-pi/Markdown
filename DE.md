@@ -22,7 +22,7 @@ Er hat eine Lebenserfahrung, die ausreicht, um dich niederknien zu lassen:
 + **Am 19. Juli 2011** wurde er festgenommen, weil er 4,8 Millionen wissenschaftliche Arbeiten vom MIT und JSTOR heruntergeladen und kostenlos ins Internet hochgeladen hatte.
 + **Selbstmord im Januar 2013**.
 
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
+![Aaron Swartz](https://github.com/DWHR-Pi/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 
 Alle Genies haben ihren Weg nach Hause von einem frühen Tod.
 
@@ -140,25 +140,25 @@ Die häufigste Verwendung von Trennlinien sind drei oder mehr `*` Sie können au
 #### 4.8 Link
 Links können in zwei Formen generiert werden: **inline** und **Referenz**.
 **Inline-Stil**:
-> \[younghz's Markdown-Bibliothek\]\(https:://github.com/DWHR-Pi/Markdown "Markdown"\).
+> \[younghz's Markdown-Bibliothek\]\(https://github.com/DWHR-Pi/Markdown "Markdown"\).
 
 Wirkung:
-> [die Markdown-Bibliothek von younghz](https:://github.com/DWHR-Pi/Markdown "Markdown").
+> [die Markdown-Bibliothek von younghz](https://github.com/DWHR-Pi/Markdown "Markdown").
 
 **Referenzformel**:
 > \[younghz's Markdown-Bibliothek 1\]\[1\]
 > \[younghz's Markdown-Bibliothek 2\]\[2\]
-> \[1\]:https:://github.com/DWHR-Pi/Markdown "Markdown"
-> \[2\]:https:://github.com/DWHR-Pi/Markdown "Markdown"
+> \[1\]:https://github.com/DWHR-Pi/Markdown "Markdown"
+> \[2\]:https://github.com/DWHR-Pi/Markdown "Markdown"
 
 Wirkung:
 > [younghz Markdown-Bibliothek 1][1]
 > [younghz Markdown-Bibliothek 2][2]
 
-[1]: https:://github.com/DWHR-Pi/Markdown "Markdown"
-[2]: https:://github.com/DWHR-Pi/Markdown "Markdown"
+[1]: https://github.com/DWHR-Pi/Markdown "Markdown"
+[2]: https://github.com/DWHR-Pi/Markdown "Markdown"
 
-**Hinweis**: Das obige `[1]:https:://github.com/DWHR-Pi/Markdown "Markdown"` erscheint nicht im Block.
+**Hinweis**: Das obige `[1]:https://github.com/DWHR-Pi/Markdown "Markdown"` erscheint nicht im Block.
 
 #### 4.9 Bilder
 Die Form des Hinzufügens eines Bildes ähnelt der eines Links, fügen Sie einfach ein `vor dem Link hinzu! `.
@@ -203,8 +203,8 @@ Verwenden Sie `|`, um die vertikale Begrenzung der Tabelle anzugeben, trennen Si
 
 |Codebasis |Link |
 |:------------------------------------:|------------------------------------|
-|MarkDown |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
-|MarkDownCopy |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
+|MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
+|MarkDownCopy |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
 
 
 Weitere erweiterte Syntax finden Sie in den Anweisungen des jeweiligen Tools.
