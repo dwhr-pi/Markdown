@@ -140,20 +140,20 @@ Die häufigste Verwendung von Trennlinien sind drei oder mehr `*` Sie können au
 #### 4.8 Link
 Links können in zwei Formen generiert werden: **inline** und **Referenz**.
 **Inline-Stil**:
-> \[younghz's Markdown-Bibliothek\]\(https://github.com/DWHR-Pi/Markdown "Markdown"\).
+> \[DWHR-Pi's Markdown-Bibliothek\]\(https://github.com/DWHR-Pi/Markdown "Markdown"\).
 
 Wirkung:
-> [die Markdown-Bibliothek von younghz](https://github.com/DWHR-Pi/Markdown "Markdown").
+> [Markdown-Bibliothek von DWHR-Pi](https://github.com/DWHR-Pi/Markdown "Markdown").
 
 **Referenzformel**:
-> \[younghz's Markdown-Bibliothek 1\]\[1\]
-> \[younghz's Markdown-Bibliothek 2\]\[2\]
+> \[DWHR-Pi's Markdown-Bibliothek 1\]\[1\] 
+> \[DWHR-Pi's Markdown-Bibliothek 2\]\[2\] 
 > \[1\]:https://github.com/DWHR-Pi/Markdown "Markdown"
 > \[2\]:https://github.com/DWHR-Pi/Markdown "Markdown"
 
 Wirkung:
-> [younghz Markdown-Bibliothek 1][1]
-> [younghz Markdown-Bibliothek 2][2]
+> [DWHR-Pi Markdown-Bibliothek 1][1] 
+> [DWHR-Pi Markdown-Bibliothek 2][2] 
 
 [1]: https://github.com/DWHR-Pi/Markdown "Markdown"
 [2]: https://github.com/DWHR-Pi/Markdown "Markdown"
