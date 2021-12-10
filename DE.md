@@ -1,4 +1,4 @@
-## Hauptinhalt
+## Inhalt
 > #### Was ist Markdown*?
 > #### *Wer* hat es erstellt?
 > #### *Warum* es verwenden?
@@ -6,7 +6,7 @@
 > #### *Wer* verwendet?
 > #### Probieren Sie es aus
 
-## Körper
+## Einleitung
 ### 1. Was ist Markdown*?
 **Markdown** ist eine leichte **Markup-Sprache**, die Dokumente im Klartext schreibt (*leicht zu lesen, leicht zu schreiben, leicht zu ändern*) und schließlich im HTML-Format veröffentlicht.
 **Markdown** kann auch als Werkzeug zum Konvertieren von in MARKDOWN-Syntax geschriebenen Sprachen in HTML-Inhalte verstanden werden.
@@ -84,14 +84,17 @@ Wirkung:
 
 #### 4.4 Codeblock
 Die Einrichtung des Codeblocks besteht darin, jeder Zeile 4 Leerzeichen oder einen Tabulator hinzuzufügen (genau wie beim Schreiben von Code). mögen    
-Gewöhnlicher Absatz:
+Ein gewöhnlicher Absatz:
 
 void main()
 {
     printf("Hallo, Markdown.");
 }
 
+
+Als Codeblock
 Codeblock:
+Als Codeblock mit Tabulatoren realisiert. 
 
     void main()
     {
@@ -190,8 +193,7 @@ Markdown-Benutzer:
 
 ****
 **Hinweis**: Unterschiedliche Markdown-Interpreter oder -Tools haben unterschiedliche Interpretationseffekte auf die entsprechende Grammatik (erweiterte Grammatik). Einzelheiten entnehmen Sie bitte der Anleitung des Tools.
-Obwohl einige Leute sich melden wollten, um einen sogenannten standardisierten Markdown zu machen, [unerwartet hat dies auch den lebenden Gründer John Gruber verärgert]
-(http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/).
+Obwohl einige Leute sich melden wollten, um einen sogenannten standardisierten Markdown zu machen, [unerwartet hat dies auch den lebenden Gründer John Gruber verärgert](http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/).
 ****
 Das Obige ist im Grunde die Syntax aller traditionellen Markdowns.
 
@@ -201,7 +203,7 @@ Verwendung von Listen (nicht traditioneller Abschlag):
 Verwenden Sie `|`, um die vertikale Begrenzung der Tabelle anzugeben, trennen Sie die Kopfzeile und den Inhalt der Tabelle mit `-` und verwenden Sie `:` für die Ausrichtungseinstellungen. Wenn auf beiden Seiten ein `:` steht, bedeutet dies zentriert Wenn Sie `:` nicht hinzufügen, wird standardmäßig linksbündig angezeigt.
 
 |Codebasis |Link |
-|:------------------------------------:|---------- --------------------------|
+|:------------------------------------:|------------------------------------|
 |MarkDown |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
 |MarkDownCopy |[https://github.com/younghz/Markdown](https://github.com/younghz/Markdown "Markdown")|
 
