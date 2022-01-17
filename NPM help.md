@@ -1,4 +1,4 @@
-## NPM help
+# NPM help
 
 Usage: npm <command>
 
@@ -33,7 +33,7 @@ Configuration fields: npm help 7 config
 
 
 
-Verwendung: npm <Befehl>. 
+## Verwendung: npm <Befehl> 
 
 npm install - Installiert alle Abhängigkeiten in Ihrem Projekt. 
 npm install <foo> - Fügt die <foo(Name)>-Abhängigkeit zu Ihrem Projekt hinzu. 
@@ -67,134 +67,102 @@ Konfigurationsfelder: npm help 7 config
 
 
 |:-:|------------------------------------|
-|npm|JavaScript package manager
-|npm access|
-Set access level on published packages
-|npm adduser|
-Add a registry user account
-|npm audit|
-Run a security audit
-|npm bin|
-Display npm bin folder
-|npm bugs|
-Bugs for a package in a web browser maybe
-|npm cache|
-Manipulates packages cache
-|npm ci|
-Install a project with a clean slate
-|npm completion|
-Tab completion for npm
-|npm config|
-Manage the npm configuration files
-|npm dedupe|
-Reduce duplication
-|npm deprecate|
-Deprecate a version of a package
-|npm diff|
-The registry diff command
-|npm dist-tag
-Modify package distribution tags
-|npm docs|
-Docs for a package in a web browser maybe
-|npm doctor|
-Check your environments
-|npm edit|
-Edit an installed package
-|npm exec|
-Run a command from an npm package
-|npm explain|
-Explain installed packages
-|npm explore|
-Browse an installed package
-|npm find-dupes|
-Find duplication in the package tree
-|npm fund|
-Retrieve funding information
-|npm help|
-Search npm help documentation
-|npm help-search|
-Get help on npm
-|npm hook|
-Manage registry hooks
-|npm init|
-Create a package.json file
-|npm install|
-Install a package
-|npm install-ci-test|
-Install a project with a clean slate and run tests
-|npm install-test|
-Install package(s) and run tests
-|npm link|
-Symlink a package folder
-|npm logout|
-Log out of the registry
-|npm ls|
-List installed packages
-|npm org|
-Manage orgs
-|npm outdated|
+|npm|[JavaScript package manager](https://docs.npmjs.com/cli/v7/commands/npm)|
+|npm access|[Set access level on published packages](https://docs.npmjs.com/cli/v7/commands/npm-access)|
+|npm adduser|[Add a registry user account](https://docs.npmjs.com/cli/v7/commands/npm-adduser)|
+|npm audit|[Run a security audit](https://docs.npmjs.com/cli/v7/commands/npm-audit)|
+|npm bin|[Display npm bin folder](https://docs.npmjs.com/cli/v7/commands/npm-bin)|
+|npm bugs|[Bugs for a package in a web browser maybe](https://docs.npmjs.com/cli/v7/commands/npm-bugs)|
+|npm cache|[Manipulates packages cache](https://docs.npmjs.com/cli/v7/commands/npm-cache)|
+|npm ci|[Install a project with a clean slate](https://docs.npmjs.com/cli/v7/commands/npm-ci)|
+|npm completion|[Tab completion for npm](https://docs.npmjs.com/cli/v7/commands/npm-completion)|
+|npm config|[Manage the npm configuration files](https://docs.npmjs.com/cli/v7/commands/npm-config)|
+|npm dedupe|[Reduce duplication](https://docs.npmjs.com/cli/v7/commands/npm-dedupe)|
+|npm deprecate|[Deprecate a version of a package](https://docs.npmjs.com/cli/v7/commands/npm-deprecate)|
+|npm diff|[The registry diff command](https://docs.npmjs.com/cli/v7/commands/npm-diff)|
+|npm dist-tag|[Modify package distribution tags](https://docs.npmjs.com/cli/v7/commands/npm-dist-tag)|
+|npm docs|[Docs for a package in a web browser maybe](https://docs.npmjs.com/cli/v7/commands/npm-docs)|
+|npm doctor|[Check your environments](https://docs.npmjs.com/cli/v7/commands/npm-doctor)|
+|npm edit|[Edit an installed package](https://docs.npmjs.com/cli/v7/commands/npm-edit)|
+|npm exec|[Run a command from an npm package](https://docs.npmjs.com/cli/v7/commands/npm-exec)|
+|npm explain|[Explain installed packages](https://docs.npmjs.com/cli/v7/commands/npm-explain)|
+|npm explore|[Browse an installed package](https://docs.npmjs.com/cli/v7/commands/npm-explore)|
+|npm find-dupes|[Find duplication in the package tree](https://docs.npmjs.com/cli/v7/commands/npm-find-dupes)|
+|npm fund|[Retrieve funding information](https://docs.npmjs.com/cli/v7/commands/npm-fund)|
+|npm help|[Search npm help documentation]()|
+|npm help-search|[Get help on npm]()|
+|npm hook|[Manage registry hooks]()|
+|npm init|[Create a package.json file]()|
+|npm install|[Install a package]()|
+|npm install-ci-test|[Install a project with a clean slate and run tests]()|
+|npm install-test|[Install package(s) and run tests]()|
+|npm link|[Symlink a package folder]()|
+|npm logout|[Log out of the registry]()|
+|npm ls|[List installed packages]()|
+|npm org|[Manage orgs]()|
+|npm outdated|[]()|
 Check for outdated packages
-|npm owner|
+|npm owner|[]()|
 Manage package owners
-|npm pack|
+|npm pack|[]()|
 Create a tarball from a package
-|npm ping|
+|npm ping|[]()|
 Ping npm registry
-|npm pkg|
+|npm pkg|[]()|
 Manages your package.json
-|npm prefix|
+|npm prefix|[]()|
 Display prefix
-|npm profile|
+|npm profile|[]()|
 Change settings on your registry profile
-|npm prune|
+|npm prune|[]()|
 Remove extraneous packages
-|npm publish|
+|npm publish|[]()|
 Publish a package
-|npm rebuild|
+|npm rebuild|[]()|
 Rebuild a package
-|npm repo|
+|npm repo|[]()|
 Open package repository page in the browser
-|npm restart|
+|npm restart|[]()|
 Restart a package
-|npm root|
+|npm root|[]()|
 Display npm root
-|npm run-script|
+|npm run-script|[]()|
 Run arbitrary package scripts
-|npm search|
+|npm search|[]()|
 Search for packages
-|npm set-script|
+|npm set-script|[]()|
 Set tasks in the scripts section of package.json
-|npm shrinkwrap|
+|npm shrinkwrap|[]()|
 Lock down dependency versions for publication
-|npm star|
+|npm star|[]()|
 Mark your favorite packages
-|npm stars|
+|npm stars|[]()|
 View packages marked as favorites
-|npm start|
+|npm start|[]()|
 Start a package
-|npm stop|
+|npm stop|[]()|
 Stop a package
-|npm team|
+|npm team|[]()|
 Manage organization teams and team memberships
-|npm test|
+|npm test|[]()|
 Test a package
-|npm token|
+|npm token|[]()|
 Manage your authentication tokens
-|npm uninstall|
+|npm uninstall|[]()|
 Remove a package
-|npm unpublish|
+|npm unpublish|[]()|
 Remove a package from the registry
-|npm unstar|
+|npm unstar|[]()|
 Remove an item from your favorite packages
-|npm update|
+|npm update|[]()|
 Update a package
-|npm version|
+|npm version|[]()|
 Bump a package version
-|npm view|
+|npm view|[]()|
 View registry info
-|npm whoami|
+|npm whoami|[]()|
 Display npm username
-|npx|
+|npx|[]()|
 Run a command from an npm package
 
 
