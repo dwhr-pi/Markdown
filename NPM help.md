@@ -66,7 +66,7 @@ Weitere Konfigurationsinformationen: npm help config
 Konfigurationsfelder: npm help 7 config
 
 
-|:-:|------------------------------------|
+|:------------------------------------:|------------------------------------|
 |npm|[JavaScript package manager](https://docs.npmjs.com/cli/v7/commands/npm)|
 |npm access|[Set access level on published packages](https://docs.npmjs.com/cli/v7/commands/npm-access)|
 |npm adduser|[Add a registry user account](https://docs.npmjs.com/cli/v7/commands/npm-adduser)|
@@ -89,10 +89,10 @@ Konfigurationsfelder: npm help 7 config
 |npm explore|[Browse an installed package](https://docs.npmjs.com/cli/v7/commands/npm-explore)|
 |npm find-dupes|[Find duplication in the package tree](https://docs.npmjs.com/cli/v7/commands/npm-find-dupes)|
 |npm fund|[Retrieve funding information](https://docs.npmjs.com/cli/v7/commands/npm-fund)|
-|npm help|[Search npm help documentation]()|
-|npm help-search|[Get help on npm]()|
-|npm hook|[Manage registry hooks]()|
-|npm init|[Create a package.json file]()|
+|npm help|[Search npm help documentation](https://docs.npmjs.com/cli/v7/commands/npm-help)|
+|npm help-search|[Get help on npm](https://docs.npmjs.com/cli/v7/commands/npm-help-search)|
+|npm hook|[Manage registry hooks](https://docs.npmjs.com/cli/v7/commands/npm-hook)|
+|npm init|[Create a package.json file](https://docs.npmjs.com/cli/v7/commands/npm-init)|
 |npm install|[Install a package]()|
 |npm install-ci-test|[Install a project with a clean slate and run tests]()|
 |npm install-test|[Install package(s) and run tests]()|
