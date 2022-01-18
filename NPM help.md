@@ -93,37 +93,26 @@ Konfigurationsfelder: npm help 7 config
 |npm help-search|[Get help on npm](https://docs.npmjs.com/cli/v7/commands/npm-help-search)|
 |npm hook|[Manage registry hooks](https://docs.npmjs.com/cli/v7/commands/npm-hook)|
 |npm init|[Create a package.json file](https://docs.npmjs.com/cli/v7/commands/npm-init)|
-|npm install|[Install a package]()|
-|npm install-ci-test|[Install a project with a clean slate and run tests]()|
-|npm install-test|[Install package(s) and run tests]()|
-|npm link|[Symlink a package folder]()|
-|npm logout|[Log out of the registry]()|
-|npm ls|[List installed packages]()|
-|npm org|[Manage orgs]()|
-|npm outdated|[]()|
-Check for outdated packages
-|npm owner|[]()|
-Manage package owners
-|npm pack|[]()|
-Create a tarball from a package
-|npm ping|[]()|
-Ping npm registry
-|npm pkg|[]()|
-Manages your package.json
-|npm prefix|[]()|
-Display prefix
-|npm profile|[]()|
-Change settings on your registry profile
-|npm prune|[]()|
-Remove extraneous packages
-|npm publish|[]()|
-Publish a package
-|npm rebuild|[]()|
-Rebuild a package
-|npm repo|[]()|
-Open package repository page in the browser
-|npm restart|[]()|
-Restart a package
+|npm install|[Install a package](https://docs.npmjs.com/cli/v7/commands/npm-install)|
+|npm install-ci-test|[Install a project with a clean slate and run tests](https://docs.npmjs.com/cli/v7/commands/npm-install-ci-test)|
+|npm install-test|[Install package(s) and run tests](https://docs.npmjs.com/cli/v7/commands/npm-install-test)|
+|npm link|[Symlink a package folder](https://docs.npmjs.com/cli/v7/commands/npm-link)|
+|npm logout|[Log out of the registry](https://docs.npmjs.com/cli/v7/commands/npm-logout)|
+|npm ls|[List installed packages](https://docs.npmjs.com/cli/v7/commands/npm-ls)|
+|npm org|[Manage orgs](https://docs.npmjs.com/cli/v7/commands/npm-org)|
+|npm outdated|[Check for outdated packages](https://docs.npmjs.com/cli/v7/commands/npm-outdated)|
+|npm owner|[Manage package owners](https://docs.npmjs.com/cli/v7/commands/npm-owner)|
+|npm pack|[Create a tarball from a package](https://docs.npmjs.com/cli/v7/commands/npm-pack)|
+|npm ping|[Ping npm registry](https://docs.npmjs.com/cli/v7/commands/npm-ping)|
+|npm pkg|[Manages your package.json](https://docs.npmjs.com/cli/v7/commands/npm-pkg)|
+|npm prefix|[Display prefix](https://docs.npmjs.com/cli/v7/commands/npm-prefix)|
+|npm profile|[Change settings on your registry profile](https://docs.npmjs.com/cli/v7/commands/npm-profile)|
+|npm prune|[Remove extraneous packages](https://docs.npmjs.com/cli/v7/commands/npm-prune)|
+|npm publish|[Publish a package](https://docs.npmjs.com/cli/v7/commands/npm-publish)|
+|npm rebuild|[Rebuild a package](https://docs.npmjs.com/cli/v7/commands/npm-rebuild)|
+|npm repo|[Open package repository page in the browser](https://docs.npmjs.com/cli/v7/commands/npm-repo)|
+|npm restart|[Restart a package](https://docs.npmjs.com/cli/v7/commands/npm-restart)|
+
 |npm root|[]()|
 Display npm root
 |npm run-script|[]()|
