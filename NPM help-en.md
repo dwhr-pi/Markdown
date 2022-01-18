@@ -1,6 +1,6 @@
 # NPM help
 
-Usage: npm <command>
+## Usage: npm <command>
 
 npm install        install all the dependencies in your project
 npm install <foo>  add the <foo> dependency to your project
@@ -30,43 +30,7 @@ or on the command line via: npm <command> --key=value
 More configuration info: npm help config
 Configuration fields: npm help 7 config
 
-
-
-
-## Verwendung: npm <Befehl> 
-
-npm install - Installiert alle Abhängigkeiten in Ihrem Projekt. 
-npm install <foo> - Fügt die <foo(Name)>-Abhängigkeit zu Ihrem Projekt hinzu. 
-npm test - Führt die Tests dieses Projekts aus. 
-npm run <foo> - Führt das Skript mit dem Namen <foo> aus. 
-npm <Befehl> -h - Schnelle Hilfe zu <Befehl>. 
-npm -l - Zeigt Nutzungsinformationen für alle Befehle an. 
-npm help <Begriff> - sucht nach Hilfe zu <Begriff>. 
-npm help npm - beteiligter Übersicht. 
-
-Alle Befehle:
-
-    access, adduser, audit, bin, bugs, cache, ci, completion,
-    config, dedupe, deprecate, diff, dist-tag, docs, doctor,
-    edit, exec, explain, explore, find-dupes, fund, get, help,
-    hook, init, install, install-ci-test, install-test, link,
-    ll, login, logout, ls, org, outdated, owner, pack, ping,
-    prefix, profile, prune, publish, rebuild, repo, restart,
-    root, run-script, search, set, set-script, shrinkwrap, star,
-    stars, start, stop, team, test, token, un
-
-[Siehe auch](https://docs.npmjs.com/cli/v7/commands)
-
-
-Geben Sie die Konfigurationen in der ini-formatierten Datei an:
-    /home/dietpi/.npmrc
-oder auf der Kommandozeile über: npm <command> --key=value
-
-Weitere Konfigurationsinformationen: npm help config
-Konfigurationsfelder: npm help 7 config
-
-
-|Befehl|Beschreibung|
+|Command|Description|
 |:------------------------------------:|------------------------------------|
 |npm|[JavaScript package manager](https://docs.npmjs.com/cli/v7/commands/npm)|  
 |npm access|[Set access level on published packages](https://docs.npmjs.com/cli/v7/commands/npm-access)|
@@ -113,7 +77,7 @@ Konfigurationsfelder: npm help 7 config
 |npm rebuild|[Rebuild a package](https://docs.npmjs.com/cli/v7/commands/npm-rebuild)|
 |npm repo|[Open package repository page in the browser](https://docs.npmjs.com/cli/v7/commands/npm-repo)|
 |npm restart|[Restart a package](https://docs.npmjs.com/cli/v7/commands/npm-restart)|
-|npm root|Display npm root[](https://docs.npmjs.com/cli/v7/commands/npm-root)|
+|npm root|[Display npm root](https://docs.npmjs.com/cli/v7/commands/npm-root)|
 |npm run-script|[Run arbitrary package scripts](https://docs.npmjs.com/cli/v7/commands/npm-run-script)|
 |npm search|[Search for packages](https://docs.npmjs.com/cli/v7/commands/npm-search)|
 |npm set-script|[Set tasks in the scripts section of package.json](https://docs.npmjs.com/cli/v7/commands/npm-set-script)|
@@ -133,8 +97,3 @@ Konfigurationsfelder: npm help 7 config
 |npm view|[View registry info](https://docs.npmjs.com/cli/v7/commands/npm-view)|
 |npm whoami|[Display npm username](https://docs.npmjs.com/cli/v7/commands/npm-whoami)|
 |npx|[Run a command from an npm package](https://docs.npmjs.com/cli/v7/commands/npx)|
-
-
-
-
-
