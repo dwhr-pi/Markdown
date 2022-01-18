@@ -65,6 +65,10 @@ oder auf der Kommandozeile über: npm <command> --key=value
 Weitere Konfigurationsinformationen: npm help config
 Konfigurationsfelder: npm help 7 config
 
+|Codebasis |Link |
+|:------------------------------------:|------------------------------------|
+|MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
+|MarkDownCopy |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
 
 |:Befehl-------------------------------:|Beschreibung------------------------------------|  
 |npm|[JavaScript package manager](https://docs.npmjs.com/cli/v7/commands/npm)|  
