@@ -24,7 +24,7 @@ All commands:
     unstar, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
-    /home/dietpi/.npmrc
+    /home/dietpi/.npmrc  
 or on the command line via: npm <command> --key=value
 
 More configuration info: npm help config

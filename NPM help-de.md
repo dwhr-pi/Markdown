@@ -26,7 +26,7 @@ Alle Befehle:
 
 
 Geben Sie die Konfigurationen in der ini-formatierten Datei an:  
-    /home/dietpi/.npmrc
+    /home/dietpi/.npmrc  
 oder auf der Kommandozeile über: npm <command> --key=value  
 
 Weitere Konfigurationsinformationen: npm help config  
