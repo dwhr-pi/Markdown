@@ -1,14 +1,14 @@
-# NPM help
+# NPM Hilfe
 
-## Verwendung: npm <Befehl> 
+## Verwendung: npm &lt;Befehl&gt; 
 
 npm install - Installiert alle Abhängigkeiten in Ihrem Projekt.  
-npm install <foo> - Fügt die <foo(Name)>-Abhängigkeit zu Ihrem Projekt hinzu.  
+npm install &lt;foo&gt; - Fügt die &lt;foo(Name)&gt;-Abhängigkeit zu Ihrem Projekt hinzu.  
 npm test - Führt die Tests dieses Projekts aus.  
-npm run <foo> - Führt das Skript mit dem Namen <foo> aus.  
-npm <Befehl> -h - Schnelle Hilfe zu <Befehl>.  
+npm run &lt;foo&gt; - Führt das Skript mit dem Namen &lt;foo&gt; aus.  
+npm &lt;Befehl&gt; -h - Schnelle Hilfe zu &lt;Befehl&gt;.  
 npm -l - Zeigt Nutzungsinformationen für alle Befehle an.  
-npm help <Begriff> - sucht nach Hilfe zu <Begriff>.  
+npm help &lt;Begriff&gt; - sucht nach Hilfe zu &lt;Begriff&gt;.  
 npm help npm - beteiligter Übersicht.  
 
 Alle Befehle: 
@@ -27,7 +27,7 @@ Alle Befehle:
 
 Geben Sie die Konfigurationen in der ini-formatierten Datei an:  
     /home/dietpi/.npmrc  
-oder auf der Kommandozeile über: npm <command> --key=value  
+oder auf der Kommandozeile über: npm &lt;command&gt; --key=value  
 
 Weitere Konfigurationsinformationen: npm help config  
 Konfigurationsfelder: npm help 7 config  

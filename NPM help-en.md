@@ -1,14 +1,14 @@
 # NPM help
 
-## Usage: npm <command>
+## Usage: npm &lt;command&gt;
 
 npm install        install all the dependencies in your project  
-npm install <foo>  add the <foo> dependency to your project  
+npm install &lt;foo&gt;  add the &lt;foo&gt; dependency to your project  
 npm test           run this project's tests  
-npm run <foo>      run the script named <foo>  
-npm <command> -h   quick help on <command>  
+npm run &lt;foo&gt;      run the script named &lt;foo&gt;  
+npm &lt;command&gt; -h   quick help on &lt;command&gt;  
 npm -l             display usage info for all commands  
-npm help <term>    search for help on <term>  
+npm help &lt;term&gt;    search for help on &lt;term&gt;  
 npm help npm       more involved overview  
 
 All commands:
@@ -25,7 +25,7 @@ All commands:
 
 Specify configs in the ini-formatted file:
     /home/dietpi/.npmrc  
-or on the command line via: npm <command> --key=value
+or on the command line via: npm &lt;command&gt; --key=value
 
 More configuration info: npm help config
 Configuration fields: npm help 7 config
