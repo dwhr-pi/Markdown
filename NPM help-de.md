@@ -2,16 +2,16 @@
 
 ## Verwendung: npm <Befehl> 
 
-npm install - Installiert alle Abhängigkeiten in Ihrem Projekt. 
-npm install <foo> - Fügt die <foo(Name)>-Abhängigkeit zu Ihrem Projekt hinzu. 
-npm test - Führt die Tests dieses Projekts aus. 
-npm run <foo> - Führt das Skript mit dem Namen <foo> aus. 
-npm <Befehl> -h - Schnelle Hilfe zu <Befehl>. 
-npm -l - Zeigt Nutzungsinformationen für alle Befehle an. 
-npm help <Begriff> - sucht nach Hilfe zu <Begriff>. 
-npm help npm - beteiligter Übersicht. 
+npm install - Installiert alle Abhängigkeiten in Ihrem Projekt.  
+npm install <foo> - Fügt die <foo(Name)>-Abhängigkeit zu Ihrem Projekt hinzu.  
+npm test - Führt die Tests dieses Projekts aus.  
+npm run <foo> - Führt das Skript mit dem Namen <foo> aus.  
+npm <Befehl> -h - Schnelle Hilfe zu <Befehl>.  
+npm -l - Zeigt Nutzungsinformationen für alle Befehle an.  
+npm help <Begriff> - sucht nach Hilfe zu <Begriff>.  
+npm help npm - beteiligter Übersicht.  
 
-Alle Befehle:
+Alle Befehle: 
 
     access, adduser, audit, bin, bugs, cache, ci, completion,
     config, dedupe, deprecate, diff, dist-tag, docs, doctor,
@@ -25,12 +25,12 @@ Alle Befehle:
 [Siehe auch](https://docs.npmjs.com/cli/v7/commands)
 
 
-Geben Sie die Konfigurationen in der ini-formatierten Datei an:
+Geben Sie die Konfigurationen in der ini-formatierten Datei an:  
     /home/dietpi/.npmrc
-oder auf der Kommandozeile über: npm <command> --key=value
+oder auf der Kommandozeile über: npm <command> --key=value  
 
-Weitere Konfigurationsinformationen: npm help config
-Konfigurationsfelder: npm help 7 config
+Weitere Konfigurationsinformationen: npm help config  
+Konfigurationsfelder: npm help 7 config  
 
 
 
