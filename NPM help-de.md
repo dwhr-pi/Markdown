@@ -3,7 +3,7 @@
 ## Verwendung: npm &lt;Befehl&gt; 
 
 	[npm install](#npm install) - Installiert alle Abhängigkeiten in Ihrem Projekt.  
-	[npm install &lt;foo&gt;]() -  Fügt die &lt;foo(Name)&gt;-Abhängigkeit zu Ihrem Projekt hinzu.  
+	[npm install &lt;foo&gt;](#npm install &lt;foo&gt;) -  Fügt die &lt;foo(Name)&gt;-Abhängigkeit zu Ihrem Projekt hinzu.  
 npm test]() - Führt die Tests dieses Projekts aus.  
 npm run &lt;foo&gt; - Führt das Skript mit dem Namen &lt;foo&gt; aus.  
 npm &lt;Befehl&gt; -h - Schnelle Hilfe zu &lt;Befehl&gt;.  
