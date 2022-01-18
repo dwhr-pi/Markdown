@@ -13,14 +13,14 @@ npm help npm - beteiligter Übersicht.
 
 Alle Befehle: 
 
-    access, adduser, audit, bin, bugs, cache, ci, completion,
-    config, dedupe, deprecate, diff, dist-tag, docs, doctor,
-    edit, exec, explain, explore, find-dupes, fund, get, help,
-    hook, init, install, install-ci-test, install-test, link,
-    ll, login, logout, ls, org, outdated, owner, pack, ping,
-    prefix, profile, prune, publish, rebuild, repo, restart,
-    root, run-script, search, set, set-script, shrinkwrap, star,
-    stars, start, stop, team, test, token, un
+    [access](), [adduser](), [audit](), [bin](), [bugs](), [cache](), [ci](), [completion](), 
+	[config](), [dedupe](), [deprecate](), [diff](), [dist-tag](), [docs,](), [doctor](), 
+	[edit](), [exec,](), [explain](), [explore](), [find-dupes](), [fund](), [get](), [help](), 
+	[hook](), [init](), [install](), [install-ci-test](), [install-test](), [link](), 
+	[ll](), [login](), [logout](), [ls](), [org](), [outdated](), [owner](), [pack](), [ping](), 
+	[prefix](), [profile](), [prune](), [publish](), [rebuild,](), [repo](), [restart](), 
+	[root](), [run-script](), [search](), [set](), [set-script](), [shrinkwrap](), [star](), 
+	[stars](), [start](), [stop](), [team](), [test](), [token](), [un]()
 
 [Siehe auch](https://docs.npmjs.com/cli/v7/commands)
 
