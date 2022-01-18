@@ -65,10 +65,6 @@ oder auf der Kommandozeile über: npm <command> --key=value
 Weitere Konfigurationsinformationen: npm help config
 Konfigurationsfelder: npm help 7 config
 
-|Codebasis |Link |
-|:------------------------------------:|------------------------------------|
-|MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
-|MarkDownCopy |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
 
 |Befehl|Beschreibung|
 |:------------------------------------:|------------------------------------|
@@ -117,47 +113,27 @@ Konfigurationsfelder: npm help 7 config
 |npm rebuild|[Rebuild a package](https://docs.npmjs.com/cli/v7/commands/npm-rebuild)|
 |npm repo|[Open package repository page in the browser](https://docs.npmjs.com/cli/v7/commands/npm-repo)|
 |npm restart|[Restart a package](https://docs.npmjs.com/cli/v7/commands/npm-restart)|
+|npm root|Display npm root[](https://docs.npmjs.com/cli/v7/commands/npm-root)|
+|npm run-script|[Run arbitrary package scripts](https://docs.npmjs.com/cli/v7/commands/npm-run-script)|
+|npm search|[Search for packages](https://docs.npmjs.com/cli/v7/commands/npm-search)|
+|npm set-script|[Set tasks in the scripts section of package.json](https://docs.npmjs.com/cli/v7/commands/npm-set-script)|
+|npm shrinkwrap|[Lock down dependency versions for publication](https://docs.npmjs.com/cli/v7/commands/npm-shrinkwrap)|
+|npm star|[Mark your favorite packages](https://docs.npmjs.com/cli/v7/commands/npm-star)|
+|npm stars|[View packages marked as favorites](https://docs.npmjs.com/cli/v7/commands/npm-stars)|
+|npm start|[Start a package](https://docs.npmjs.com/cli/v7/commands/npm-start)|
+|npm stop|[Stop a package](https://docs.npmjs.com/cli/v7/commands/npm-stop)|
+|npm team|[Manage organization teams and team memberships](https://docs.npmjs.com/cli/v7/commands/npm-team)|
+|npm test|[Test a package](https://docs.npmjs.com/cli/v7/commands/npm-test)|
+|npm token|[Manage your authentication tokens](https://docs.npmjs.com/cli/v7/commands/npm-token)|
+|npm uninstall|[Remove a package](https://docs.npmjs.com/cli/v7/commands/npm-uninstall)|
+|npm unpublish|[Remove a package from the registry](https://docs.npmjs.com/cli/v7/commands/npm-unpublish)|
+|npm unstar|[Remove an item from your favorite packages](https://docs.npmjs.com/cli/v7/commands/npm-unstar)|
+|npm update|[Update a package](https://docs.npmjs.com/cli/v7/commands/npm-update)|
+|npm version|[Bump a package version](https://docs.npmjs.com/cli/v7/commands/npm-version)|
+|npm view|[View registry info](https://docs.npmjs.com/cli/v7/commands/npm-view)|
+|npm whoami|[Display npm username](https://docs.npmjs.com/cli/v7/commands/npm-whoami)|
+|npx|[Run a command from an npm package](https://docs.npmjs.com/cli/v7/commands/npx)|
 
-|npm root|[]()|
-Display npm root
-|npm run-script|[]()|
-Run arbitrary package scripts
-|npm search|[]()|
-Search for packages
-|npm set-script|[]()|
-Set tasks in the scripts section of package.json
-|npm shrinkwrap|[]()|
-Lock down dependency versions for publication
-|npm star|[]()|
-Mark your favorite packages
-|npm stars|[]()|
-View packages marked as favorites
-|npm start|[]()|
-Start a package
-|npm stop|[]()|
-Stop a package
-|npm team|[]()|
-Manage organization teams and team memberships
-|npm test|[]()|
-Test a package
-|npm token|[]()|
-Manage your authentication tokens
-|npm uninstall|[]()|
-Remove a package
-|npm unpublish|[]()|
-Remove a package from the registry
-|npm unstar|[]()|
-Remove an item from your favorite packages
-|npm update|[]()|
-Update a package
-|npm version|[]()|
-Bump a package version
-|npm view|[]()|
-View registry info
-|npm whoami|[]()|
-Display npm username
-|npx|[]()|
-Run a command from an npm package
 
 
 
