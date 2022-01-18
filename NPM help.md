@@ -66,8 +66,9 @@ Weitere Konfigurationsinformationen: npm help config
 Konfigurationsfelder: npm help 7 config
 
 
-|:------------------------------------:|------------------------------------|  
+|:Befehl-------------------------------:|Beschreibung------------------------------------|  
 |npm|[JavaScript package manager](https://docs.npmjs.com/cli/v7/commands/npm)|  
+
 |npm access|[Set access level on published packages](https://docs.npmjs.com/cli/v7/commands/npm-access)|
 |npm adduser|[Add a registry user account](https://docs.npmjs.com/cli/v7/commands/npm-adduser)|
 |npm audit|[Run a security audit](https://docs.npmjs.com/cli/v7/commands/npm-audit)|
