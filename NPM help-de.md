@@ -37,7 +37,7 @@ Konfigurationsfelder: npm help 7 config
 
 
 |Befehl|Beschreibung|
-|:------------------------------------:|---------- --------------------------|
+|:------------------------------------:|------------------------------------|
 |npm|[JavaScript-Paketmanager](https://docs.npmjs.com/cli/v7/commands/npm)|
 |npm access|[Zugriffsebene für veröffentlichte Pakete festlegen](https://docs.npmjs.com/cli/v7/commands/npm-access)|
 |npm adduser|[Registrierungsbenutzerkonto hinzufügen](https://docs.npmjs.com/cli/v7/commands/npm-adduser)|
