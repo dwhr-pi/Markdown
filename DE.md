@@ -6,6 +6,10 @@
 > #### *Wer* verwendet?
 > #### Probieren Sie es aus
 
+## mk als Server
+https://www.mkdocs.org/getting-started/
+https://squidfunk.github.io/mkdocs-material/
+
 ## Einleitung
 ### 1. Was ist Markdown*?
 **Markdown** ist eine leichte **Markup-Sprache**, die Dokumente im Klartext schreibt (*leicht zu lesen, leicht zu schreiben, leicht zu ändern*) und schließlich im HTML-Format veröffentlicht.
