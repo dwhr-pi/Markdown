@@ -165,18 +165,37 @@ Wirkung:
 
 **Hinweis**: Das obige `[1]:https://github.com/DWHR-Pi/Markdown "Markdown"` erscheint nicht im Block.
 
-#### 4.9 Bilder
+
+## 4.9 Titel des verborgenen Inhalts 
+
+
+```
+<details>
+<summary>Inhaltesbeschreibung im Kuzen
+</summary>
+Der verborgene Inhalt, wird erst sichtbar, sobald man diesen aufgeklappt hat.
+</details>
+```
+Wirkung:
+<details>
+<summary>Inhaltesbeschreibung im Kuzen
+</summary>
+Der verborgene Inhalt, wird erst sichtbar, sobald man diesen aufgeklappt hat.
+</details>
+
+
+#### 5.0 Bilder
 Die Form des Hinzufügens eines Bildes ähnelt der eines Links, fügen Sie einfach ein `vor dem Link hinzu! `.
-#### 4.10 Backslash `\`
+#### 5.10 Backslash `\`
 Es entspricht **umgekehrter Bedeutung**. Machen Sie das Symbol zu einem gewöhnlichen Symbol.
-#### 4.11 Das Symbol'`'
+#### 5.11 Das Symbol'`'
 Spielen Sie die Rolle der Markierung. mögen:
 >\`Strg+a\`
 
 Wirkung:
 >`Strg+A`
 
-#### 5. *Wer* verwendet?
+#### 6.0 *Wer* verwendet?
 Markdown-Benutzer:
 + GitHub
 + Kurzes Buch
@@ -186,7 +205,7 @@ Markdown-Benutzer:
 + Reddit
 + Warte
 
-#### 6. Probieren Sie es aus
+#### 7.0 Probieren Sie es aus
 + **Chrome**-Plugins wie `stackedit` und `markdown-here` sind sehr praktisch, und Sie müssen sich keine Sorgen um Plattformeinschränkungen machen.
 + Die dillinger.io-Rezension von **Online** ist auch gut
 + MarkdownPad unter **Windowns** wurde ebenfalls verwendet, aber die Erfahrung mit der kostenlosen Version ist nicht sehr gut.
