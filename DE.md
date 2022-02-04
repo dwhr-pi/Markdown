@@ -168,7 +168,9 @@ Wirkung:
 
 #### 4.9 Titel des verborgenen Inhalts 
 
+Mit diesen Code kann man das Dokument übersichtlicher gestalten und aufklappbare Flächen ffür Text, Bilder usw. erstellen.  
 
+Codeblock:
 ```
 ### Titel des verborgenen Inhalts 
 <details>
