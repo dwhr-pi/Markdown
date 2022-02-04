@@ -166,11 +166,11 @@ Wirkung:
 **Hinweis**: Das obige `[1]:https://github.com/DWHR-Pi/Markdown "Markdown"` erscheint nicht im Block.
 
 
-## 4.9 Titel des verborgenen Inhalts 
+#### 4.9 Titel des verborgenen Inhalts 
 
 
 ```
-## Titel des verborgenen Inhalts 
+### Titel des verborgenen Inhalts 
 <details>
 <summary>Inhaltesbeschreibung im Kuzen
 </summary>
@@ -178,7 +178,7 @@ Der verborgene Inhalt, wird erst sichtbar, sobald man diesen aufgeklappt hat.
 </details>
 ```
 Wirkung:
-## Titel des verborgenen Inhalts 
+### Titel des verborgenen Inhalts 
 <details>
 <summary>Inhaltesbeschreibung im Kuzen
 </summary>
