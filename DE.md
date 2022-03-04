@@ -234,11 +234,7 @@ Obwohl einige Leute sich melden wollten, um einen sogenannten standardisierten M
 ****
 Das Obige ist im Grunde die Syntax aller traditionellen Markdowns.
 
-### Andere:
-Verwendung von Listen (nicht traditioneller Abschlag):
-
-
-### Tabellen:
+### 7.1 Tabellen:
 Verwenden Sie `|`, um die vertikale Begrenzung der Tabelle anzugeben, trennen Sie die Kopfzeile und den Inhalt der Tabelle mit `-` und verwenden Sie `:` für die Ausrichtungseinstellungen. Wenn auf beiden Seiten ein `:` steht, bedeutet dies zentriert Wenn Sie `:` nicht hinzufügen, wird standardmäßig linksbündig angezeigt.
 
 ```
@@ -253,6 +249,10 @@ Wirkung:
 |:------------------------------------:|------------------------------------|
 |MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
 |MarkDownCopy |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
+
+### Andere:
+Verwendung von Listen (nicht traditioneller Abschlag):
+
 
 
 Weitere erweiterte Syntax finden Sie in den Anweisungen des jeweiligen Tools.
