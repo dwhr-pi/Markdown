@@ -237,6 +237,8 @@ Das Obige ist im Grunde die Syntax aller traditionellen Markdowns.
 ### Andere:
 Verwendung von Listen (nicht traditioneller Abschlag):
 
+
+### Tabellen:
 Verwenden Sie `|`, um die vertikale Begrenzung der Tabelle anzugeben, trennen Sie die Kopfzeile und den Inhalt der Tabelle mit `-` und verwenden Sie `:` für die Ausrichtungseinstellungen. Wenn auf beiden Seiten ein `:` steht, bedeutet dies zentriert Wenn Sie `:` nicht hinzufügen, wird standardmäßig linksbündig angezeigt.
 
 ```
