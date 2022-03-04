@@ -239,6 +239,14 @@ Verwendung von Listen (nicht traditioneller Abschlag):
 
 Verwenden Sie `|`, um die vertikale Begrenzung der Tabelle anzugeben, trennen Sie die Kopfzeile und den Inhalt der Tabelle mit `-` und verwenden Sie `:` für die Ausrichtungseinstellungen. Wenn auf beiden Seiten ein `:` steht, bedeutet dies zentriert Wenn Sie `:` nicht hinzufügen, wird standardmäßig linksbündig angezeigt.
 
+```
+|Codebasis |Link |
+|:------------------------------------:|------------------------------------|
+|MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
+|MarkDownCopy |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
+```
+Wirkung:
+
 |Codebasis |Link |
 |:------------------------------------:|------------------------------------|
 |MarkDown |[https://github.com/DWHR-Pi/Markdown](https://github.com/DWHR-Pi/Markdown "Markdown")|
