@@ -168,7 +168,7 @@ Wirkung:
 
 #### 4.9 Titel des verborgenen Inhalts 
 
-Mit diesen Code kann man das Dokument übersichtlicher gestalten und aufklappbare Flächen ffür Text, Bilder usw. erstellen.  
+Mit diesen Code kann man das Dokument übersichtlicher gestalten und aufklappbare Flächen für Text, Bilder usw. erstellen.  
 
 Codeblock:
 ```
@@ -189,7 +189,10 @@ Der verborgene Inhalt, wird erst sichtbar, sobald man diesen aufgeklappt hat.
 
 
 #### 5.0 Bilder
-Die Form des Hinzufügens eines Bildes ähnelt der eines Links, fügen Sie einfach ein `vor dem Link hinzu! `.
+Die Form des Hinzufügens eines Bildes ähnelt der eines Links, fügen Sie einfach ein `vor dem Link hinzu ! `.
+```
+![Bild name](bild.jpg)
+```
 #### 5.10 Backslash `\`
 Es entspricht **umgekehrter Bedeutung**. Machen Sie das Symbol zu einem gewöhnlichen Symbol.
 #### 5.11 Das Symbol'`'
