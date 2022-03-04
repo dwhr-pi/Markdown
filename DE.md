@@ -194,7 +194,14 @@ Die Form des Hinzufügens eines Bildes ähnelt der eines Links, fügen Sie einfa
 ![Bild name](bild.jpg)
 ```
 #### 5.10 Backslash `\`
+
 Es entspricht **umgekehrter Bedeutung**. Machen Sie das Symbol zu einem gewöhnlichen Symbol.
+```
+\**Fettschrift**
+```
+Wirkung:
+\**Fettschrift**
+
 #### 5.11 Das Symbol'`'
 Spielen Sie die Rolle der Markierung. mögen:
 >\`Strg+a\`
