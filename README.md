@@ -25,3 +25,8 @@ https://github.com/github/linguist
 ## Weitere
 https://github.com/search?q=markdown  
 https://github.com/younghz/Markdown
+
+
+# GitHub-Anleitung - Upload mit Linux 
+[GitHub-Instructions-DE.md](GitHub-Anweisungen)
+[GitHub-Instructions-EN.md](GitHub-Instructions)
