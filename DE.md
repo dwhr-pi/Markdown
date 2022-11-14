@@ -16,7 +16,7 @@ https://squidfunk.github.io/mkdocs-material/
 **Markdown** kann auch als Werkzeug zum Konvertieren von in MARKDOWN-Syntax geschriebenen Sprachen in HTML-Inhalte verstanden werden.
 
 ### 2. *Wer* hat es erstellt?
-Es wurde von [**Aaron Swartz**](http://www.aaronsw.com/) und **John Gruber** mitgestaltet, **Aaron Swartz** befindet sich letztes Jahr (*11. Januar) , 2013 *) Suicide, ein Programmierer mit einer allgemeinen Lebenserfahrung der **Öffnung**. Wikipedias [Einleitung](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83% E8%8C% A8) ist: **Software-Ingenieur, Autor, politischer Organisator, Internet-Aktivist, Wikipedia-Person**.
+Es wurde von [**Aaron Swartz**](http://www.aaronsw.com/) und **John Gruber** mitgestaltet, **Aaron Swartz** befindet sich letztes Jahr (*11. Januar) , 2013 *) Suicide, ein Programmierer mit einer allgemeinen Lebenserfahrung der **Öffnung**. Wikipedias [Einleitung](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8) ist: **Software-Ingenieur, Autor, politischer Organisator, Internet-Aktivist, Wikipedia-Person**.
 
 Er hat eine Lebenserfahrung, die ausreicht, um dich niederknien zu lassen:
 + **14 Jahre** war an der Formulierung der RSS 1.0-Spezifikationen beteiligt.
