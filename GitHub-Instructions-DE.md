@@ -29,3 +29,6 @@ git push -u origin main
 
 ### …oder Code aus einem anderen Repository importieren
 Sie können dieses Repository mit Code aus einem Subversion-, Mercurial- oder TFS-Projekt initialisieren.
+
+
+ProTipp! Verwenden Sie die URL für diese Seite, wenn Sie GitHub als Remote hinzufügen.
