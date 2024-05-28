@@ -253,6 +253,7 @@ Wirkung:
 ### Andere:
 Verwendung von Listen (nicht traditioneller Abschlag):
 
-
-
 Weitere erweiterte Syntax finden Sie in den Anweisungen des jeweiligen Tools.
+
+## VIDEO Embetting
+https://github.com/granawkins/mailogy/assets/50287275/f2abff59-4842-4d61-bfe0-d9b84fde3005
